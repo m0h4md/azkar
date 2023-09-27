@@ -1,7 +1,4 @@
 body {
-    background-image: url("bgsaba7.jpeg");
-    width: 15000px;
-    background-repeat: repeat;
-    background-size: cover;
+    background-color: rgb(17, 202, 202);
     color: green;
 }
