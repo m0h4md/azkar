@@ -1,5 +1,7 @@
 body {
-    background-image: url("bgsaba7.jpeg");
+    background-image: url("/../root/photos/bgsaba7.jpeg");
+    background-position: center;
+    height: 8000px;
     background-repeat: no-repeat;
     background-size: cover;
     color: green;
