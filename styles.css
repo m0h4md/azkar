@@ -1,4 +1,8 @@
 body {
     background-color: rgb(17, 202, 202);
     color: black;
+    text-align: right;
+}
+.subtis{
+    color: white
 }
